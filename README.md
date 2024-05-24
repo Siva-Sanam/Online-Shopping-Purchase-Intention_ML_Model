@@ -22,4 +22,4 @@ The dataset was formed so that each session would belong to a different user in 
 ## 7)LinktotheDataset: 
 https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 ## 8) Relevant Paper: 
-Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018). Link to the paper
+Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018). Link to the paper - https://link.springer.com/article/10.1007/s00521-018-3523-0
